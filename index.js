@@ -1,0 +1,1 @@
+console.log("Halo aku repo ke dua loh");
